@@ -21,7 +21,8 @@ A classic Snake Game built using **HTML**, **CSS**, and **JavaScript**.
 
 ## 📂 Project Structure
 
-Snake_Game/
+Snake_Game
+
 │── index.html       
 │── style.css       
 │── game.js          
