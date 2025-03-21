@@ -49,6 +49,5 @@ Snake_Game
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
----
+
 🔗 Developed by [Tushar Ahlawat](https://github.com/tusharahlawat) 👨‍💻
-```
