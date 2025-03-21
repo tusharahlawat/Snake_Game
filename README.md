@@ -22,10 +22,10 @@ A classic Snake Game built using **HTML**, **CSS**, and **JavaScript**.
 ## 📂 Project Structure
 
 Snake_Game/
-│── index.html       # Main HTML file
-│── style.css        # Game styling
-│── game.js          # Game logic and functions
-└── README.md        # Project documentation
+│── index.html       
+│── style.css       
+│── game.js          
+└── README.md        
 
 
 ## 🎨 UI Preview
@@ -49,5 +49,5 @@ Snake_Game/
 This project is open-source and available under the **MIT License**.
 
 ---
-🔗 Developed by [tusharahlawat](https://github.com/tusharahlawat) 👨‍💻
+🔗 Developed by [Tushar Ahlawat](https://github.com/tusharahlawat) 👨‍💻
 ```
